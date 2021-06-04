@@ -1,4 +1,4 @@
 Hello, I'm Shurim (Anson Xu), currently a Computer Science and Engineering student at Santa Clara University.
-I also work as a freelance translator online for Japanese novels and comics, so feel free to contact me if you are interested in that :)
+I also work as a freelance translator online for Japanese novels and comics in case you've seen my name somewhere else before.
 Coding and Japanese Language are my two main passions. 
 I hope you find what's in here interesting!
