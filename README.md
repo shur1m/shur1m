@@ -5,4 +5,4 @@ I hope you find what's in here interesting!
 
 While preparing for interviews, I became more interested in algorithms than I thought I would be. Here are my LeetCode stats:
 
-![LeetCode Stats](https://leetcode.card.workers.dev/mugichoco?theme=default&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mugichoco?theme=nord&font=Thasadith)
