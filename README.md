@@ -10,4 +10,4 @@ While preparing for interviews, I became more interested in algorithms than I th
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mugichoco?theme=nord&font=Thasadith)
 
 ### The Goods
-I've pinned some of my projects below. One that (I think) is pretty cool is the [Sakura Paris API](https://github.com/shur1m/sakuraParisPythonAPI), which allows easy access to around 40 Japanese dictionaries. I've also played around with Discord bots using Node.js, and made one for scheduling messages and one for parsing Yomichan dictionaries. Unfortunately I can't pay for servers to host them, but feel free to host them yourself if you would like to try them out.
+I've pinned some of my projects below. The [Sakura Paris API](https://github.com/shur1m/sakuraParisPythonAPI) allows easy access to around 40 Japanese dictionaries using Python. I've also played around with Discord bots using Node.js, and made one for scheduling messages and one for parsing Yomichan dictionaries. Unfortunately I can't pay for servers to host them, but feel free to host them yourself if you would like to try them out.
