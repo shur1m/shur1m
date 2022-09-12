@@ -14,3 +14,5 @@ I've pinned some of my projects below. The [Sakura Paris API](https://github.com
 
 ### What I'm currently working on
 Check out the sleek UI for the [Flutter app](https://github.com/shur1m/one_brain_cell) I'm working on. It currently features a working folder system and an SQLite local database for all your flashcards. The app isn't functioning as of now, but it will be!
+
+<img src="https://raw.githubusercontent.com/shur1m/shur1m/main/assets/one_brain_cell_home_preview.png " height = "600">
