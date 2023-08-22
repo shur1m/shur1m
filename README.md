@@ -9,7 +9,7 @@ While preparing for interviews, I became more interested in algorithms than I th
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mugichoco?theme=nord&font=Thasadith)
 
-### The Projects
+### Projects
 I've pinned some of my projects below. The [Sakura Paris API](https://github.com/shur1m/sakuraParisPythonAPI) allows easy access to around 40 Japanese dictionaries using Python. [One Brain Cell](https://github.com/shur1m/one_brain_cell) is a mobile app written with Flutter that allows you to easily create and review spaced repetition flashcards for learning almost anything. I've also played around with Discord bots using Node.js, and made one for scheduling messages and one for parsing Yomichan dictionaries. Unfortunately I can't pay for servers to host them, but feel free to host them yourself if you would like to try them out.
 
 ### What I'm currently working on
