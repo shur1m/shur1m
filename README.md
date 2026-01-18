@@ -1,13 +1,14 @@
-I am a Computer Science and Engineering student at Santa Clara University.
+I am a software engineer and alumni of Santa Clara University's Computer Science and Engineering department.
 I also work as a freelance translator online for Japanese novels and comics.
 Coding and Japanese Language are my two main passions. 
-I hope you find what's in here interesting!
+It's nice to meet you!
 
 ### Scripts
 [Convert Schwab Bank transaction JSON to QIF](https://gist.github.com/shur1m/7127a049384a0bcfe57c24bc3f2f1b69)
 
 ### Projects
-I've pinned some of my projects below. The [Sakura Paris API](https://github.com/shur1m/sakuraParisPythonAPI) allows easy access to around 40 Japanese dictionaries using Python. [One Brain Cell](https://github.com/shur1m/one_brain_cell) is a mobile app written with Flutter that allows you to easily create and review spaced repetition flashcards for learning almost anything. I've also written with Discord bots using Node.js, and made one for scheduling messages and one for parsing Yomichan dictionaries.
+- [Sakura Paris API](https://github.com/shur1m/sakuraParisPythonAPI) allows easy access to around 40 Japanese dictionaries using Python.
+- [One Brain Cell](https://github.com/shur1m/one_brain_cell) is a mobile app written with Flutter that allows you to easily create and review spaced repetition flashcards.
 
 <p align = "center">
   <img src="https://raw.githubusercontent.com/shur1m/shur1m/main/assets/one_brain_cell_preview.png " height = "500">
