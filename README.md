@@ -4,7 +4,7 @@ Coding and Japanese Language are my two main passions.
 It's nice to meet you!
 
 ### Scripts
-- [Convert Schwab Bank transactions from JSON to QIF](https://gist.github.com/shur1m/7127a049384a0bcfe57c24bc3f2f1b69)
+- [Convert Schwab Bank transactions from JSON to QIF](https://gist.github.com/shur1m/7127a049384a0bcfe57c24bc3f2f1b69): useful for importing transactions to budgeting apps like HomeBank
 
 ### Projects
 - [whenCanIRetire](https://github.com/shur1m/whenCanIRetire): estimates investments and time to be released from your corporate masters.
